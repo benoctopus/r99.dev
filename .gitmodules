@@ -1,3 +1,9 @@
 [submodule "prox"]
 	path = prox
 	url = git@github.com:benoctopus/prox.git
+[submodule "slick"]
+	path = slick
+	url = git@github.com:benoctopus/slick.git
+[submodule "portfolio99"]
+	path = portfolio99
+	url = git@github.com:benoctopus/portfolio99.git
