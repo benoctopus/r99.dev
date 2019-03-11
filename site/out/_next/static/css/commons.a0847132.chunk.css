@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+.layout-root {
+  background: #E0E1E0;
+  height: 100vh;
+  overflow: hidden; }
+
+.layout-body-container {
+  height: calc(100vh - 2.3rem); }
+
+.header-root {
+  height: 2.3rem;
+  padding: 0 1rem;
+  display: flex;
+  flex-flow: row nowrap !important;
+  justify-content: space-between;
+  align-items: center; }
+
+.header-title {
+  color: white !important;
+  width: fit-content;
+  font-size: 1.5rem !important;
+  font-family: 'Pacifico', cursive !important; }
+
+.sidebar-root {
+  max-width: 98vw;
+  width: 20rem;
+  background-image: linear-gradient(to top left, #7e57c2, #4a4a4a);
+  height: calc(100vh - 2.3rem);
+  display: flex;
+  flex-flow: row nowrap; }
+
+.sidebar-groups-root {
+  width: 6rem;
+  display: inline-block;
+  background-image: linear-gradient(to bottom left, #313131, #0b0b0b); }
+

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{652:function(e,n,t){__NEXT_REGISTER_PAGE("/shop",function(){return e.exports=t(653),{page:e.exports.default}})},653:function(e,n,t){"use strict";t.r(n);var o=t(0),u=t.n(o),a=t(450);n.default=function(){return u.a.createElement(a.a,null,u.a.createElement("p",null,"hello"))}}},[[652,1,0,2]]]);

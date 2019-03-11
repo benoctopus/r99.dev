@@ -1,0 +1,21 @@
+{
+  "name": "r99.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "postinstall": "git submodule update && gulp install",
+    "dev": "gulp dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.3.3",
+    "concurrently": "^4.1.0",
+    "eslint": "^5.15.1",
+    "gulp": "^4.0.0",
+    "gulp-util": "^3.0.8"
+  }
+}
