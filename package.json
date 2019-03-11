@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "postinstall": "git submodule update && gulp install",
-    "dev": "gulp dev",
+    "dev": "CONFIG_PATH=../../config.json gulp dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

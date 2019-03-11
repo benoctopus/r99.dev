@@ -59,7 +59,12 @@ gulp.task('install-client', () => (
 ));
 
 gulp.task('dev-prox', () => (
-  spawnPromise('npm', true, ['run', 'dev'], { cwd: proxPath })
+  spawnPromise(
+    'npm',
+    true,
+    ['run', 'dev'],
+    { cwd: proxPath }
+  )
 ));
 
 gulp.task('dev-client', () => (

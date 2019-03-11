@@ -1,0 +1,22 @@
+{
+  "ProxyRoutes": [
+    {
+      "Name": "/_next/",
+      "Target": "http://127.0.0.1:3000/_next/"
+    },
+    {
+      "Name": "/",
+      "Target": "http://127.0.0.1:3000",
+      "Restrict": false
+    }
+  ],
+  "RedisSession": {
+    "Use": true,
+    "URL": "127.0.0.1:6379"
+  },
+  "CSRFProtection": false,
+  "HTTPPort": 8081,
+  "HTTPHost": "http://127.0.0.1:8081",
+  "HTTPSPort": 8080,
+  "HTTPSHost": "https://127.0.0.1:8080"
+}

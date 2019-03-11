@@ -5,3 +5,4 @@ notes/
 .vscode/
 *.pem
 .next/
+.idea

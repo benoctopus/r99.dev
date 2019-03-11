@@ -2,77 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98eaaaf-abfd-47b3-ac6d-2b0b0accaac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio99" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/containers/Layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/containers/Sidebar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/containers/SidebarChannels.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/containers/SidebarGroups.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/next.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/EousdFeT7W1KMT5j8phyu/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/EousdFeT7W1KMT5j8phyu/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/EousdFeT7W1KMT5j8phyu/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/EousdFeT7W1KMT5j8phyu/pages/shop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/commons.9ae0969cb1ff433ede8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/commons.d1103737e2a3bf26cb03.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/styles.8524cbe0bc96a9c2e704.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/styles.a638a83c08107b5ac276.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/chunks/styles.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/css/commons.a0847132.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/css/styles.71befa41.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/css/styles.a858eb1b.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/css/styles.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/css/styles.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/dTXGnTNqtuByi9WOWPG_U/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/dTXGnTNqtuByi9WOWPG_U/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/dTXGnTNqtuByi9WOWPG_U/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/dll/dll_724ae78efd21d9b28c3a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/_app.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/_error.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/development/pages/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/main-0387f6b40193143d54b7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/webpack-89179faa512dd01fbb62.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/webpack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/runtime/webpack.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/uECVji03A3m1POU781dMl/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/uECVji03A3m1POU781dMl/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/uECVji03A3m1POU781dMl/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/uECVji03A3m1POU781dMl/pages/shop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/webpack/3895cde8e112e3d31208.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/webpack/styles.3895cde8e112e3d31208.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/_next/static/webpack/styles.3895cde8e112e3d31208.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/out/shop/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/pages/_app.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/pages/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/pages/shop.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/_defaults.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/_theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/base_line.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/default.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/util/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/styles/_defaults.scss" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prox" beforeDir="false" afterPath="$PROJECT_DIR$/prox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prox/deps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prox/deps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prox/src/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/prox/src/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prox/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/prox/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prox/src/proxy.go" beforeDir="false" afterPath="$PROJECT_DIR$/prox/src/proxy.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
-              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+            <state relative-caret-position="612">
+              <caret line="66" column="2" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -94,17 +33,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prox/src/config.json">
+        <entry file="file://$PROJECT_DIR$/prox/src/config.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prox/src/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prox/src/proxy.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prox/deps.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -121,27 +94,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="512" column="37" selection-start-line="512" selection-start-column="37" selection-end-line="512" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="388" selection-start-line="2" selection-start-column="388" selection-end-line="2" selection-end-column="388" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,7 +116,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prox" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,16 +124,20 @@
         <option value="$PROJECT_DIR$/.eslintrc.json" />
         <option value="$PROJECT_DIR$/.eslintignore" />
         <option value="$PROJECT_DIR$/site/package.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/prox/src/config.json" />
         <option value="$PROJECT_DIR$/site/next.config.js" />
         <option value="$PROJECT_DIR$/portfolio/pages/index.tsx" />
         <option value="$PROJECT_DIR$/portfolio/.gitignore" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/prox/src/config.go" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/prox/deps.txt" />
+        <option value="$PROJECT_DIR$/prox/src/main.go" />
       </list>
     </option>
   </component>
@@ -199,6 +167,11 @@
               <item name="r99.dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="r99.dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="r99.dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r99.dev" type="462c0819:PsiDirectoryNode" />
+              <item name="prox" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -223,6 +196,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/portfolio" />
     </key>
   </component>
@@ -242,7 +216,7 @@
     <frame x="1680" y="30" width="1920" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25862068" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25862068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,7 +230,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33295456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33295456" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" x="0" y="0" width="430" height="850" id="Documentation" order="0" side_tool="true" visible="true" weight="0.3297414" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -291,13 +265,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/.next/BUILD_ID" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/out/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -328,13 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prox/src/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/pages/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -349,20 +309,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -370,20 +316,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="388" selection-start-line="2" selection-start-column="388" selection-end-line="2" selection-end-column="388" />
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prox/src/proxy.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="66" column="2" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prox/deps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prox/src/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prox/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
         </state>
       </provider>
     </entry>
